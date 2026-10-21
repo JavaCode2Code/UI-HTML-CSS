@@ -2,20 +2,20 @@ VS Code setup used in the course
 I show how to set up VS Code with these themes, extensions and settings in the first section of the course, in lectures Setting Up Our Code Editor and Installing Additional VS Code Extensions. But for your convenience, here is a quick list of everything you need in order to set up VS Code to follow the course.
 
 Theme
-I use the One Monokai in all the course videos. This is a free theme, similar to my personal favourite Monokai Pro. Link →
+I use the One Monokai in all the course videos. This is a free theme, similar to my personal favourite Monokai Pro. Link →https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai
 
 Extensions
-Auto Close Tag to automatically close HTML tags. Link →
+Auto Close Tag to automatically close HTML tags. Link->https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
-Auto Rename Tag to automatically update matching HTML tags. Link →
+Auto Rename Tag to automatically update matching HTML tags. Link →  https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
-Color Highlight to highlight colors in CSS code. Link →
+Color Highlight to highlight colors in CSS code. Link → https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 
-Image Preview to display an image preview next to the code Link →
+Image Preview to display an image preview next to the code Link → https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
-Prettier to automatically format code. Link →
+Prettier to automatically format code. Link →https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-Live Server to create a live preview for the current project. Link →
+Live Server to create a live preview for the current project. Link →https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 Settings
 Auto Save set to onFocusChange, to automatically save files
